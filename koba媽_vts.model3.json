@@ -1,0 +1,31 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "koba媽_vts.moc3",
+		"Textures": [
+			"koba媽_vts.1024/texture_00.png",
+			"koba媽_vts.1024/texture_01.png",
+			"koba媽_vts.1024/texture_02.png"
+		],
+		"Physics": "koba媽_vts.physics3.json",
+		"DisplayInfo": "koba媽_vts.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthForm",
+				"ParamMouthOpenY"
+			]
+		}
+	]
+}

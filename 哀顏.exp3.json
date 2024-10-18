@@ -1,0 +1,25 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "ParamEyeSmile",
+            "Value": 0.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamEyeBrowAngleR",
+            "Value": 0.3185842037200928,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamEyeBrowFormR",
+            "Value": -1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamMouthForm",
+            "Value": -1.0,
+            "Blend": "Add"
+        }
+    ]
+}
