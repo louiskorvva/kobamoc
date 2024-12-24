@@ -1,5 +1,6 @@
 {
-	"Version": 3,
+	"type": "Koba Mom",
+  	"name": "koba-mom",
 	"FileReferences": {
 		"Moc": "koba媽_vts.moc3",
 		"Textures": [
